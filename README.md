@@ -1,9 +1,9 @@
-# code-editor
+# Code-editor
 
 Online code editor
 
 ## Table of Content
-- [code-editor](#code-editor)
+- [Code editor](#code-editor)
   * [Tools](#tools)
   * [URL](#url)
   * [Author](#author)
